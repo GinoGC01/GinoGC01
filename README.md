@@ -3,25 +3,27 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right"  width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 Actualmente estoy estudiando Lic. En sistemas en la Universidad Nacional General Sarmiento
+- 🌱 Estudiante de sistemas
 
 - 📫 Puedes contactarme en **ginociancia10@gmail.com**
 
 - ⚡ Me gusta aprender todo lo relacionado con la tecnología
 
-<br>
+- 🤓 Actualmente mas enfocado al backend
 
+<br>
+<!-- <h3 align="left">Linkedin:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/gino-ciancia" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="gino ciancia" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <br>
 
-<h3 align="left">Tecnologías</h3>
+<h3 align="left">Skills</h3>
 <p align="left"> 
 <!--   css -->
   <a href="https://www.w3schools.com/css/" target="_blank"
