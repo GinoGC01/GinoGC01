@@ -7,7 +7,7 @@
 
 - 🌱 Estudiante de sistemas
 
-- 📫 Puedes contactarme en **ginociancia10@gmail.com**
+- 📫 Me puedes contactar en **ginociancia10@gmail.com**
 
 - ⚡ Me gusta aprender todo lo relacionado con la tecnología
 
