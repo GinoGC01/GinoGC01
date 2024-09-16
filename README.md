@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Gino Ciancia</h1>
-<h3 align="center">Desarrollador web🌟.</h3>
+<h3 align="center">Hola 👋</h1>
+<h1 align="center">soy Gino Ciancia</h1>
+<h3 align="center">Desarrollador web 🌟</h3>
 
 <br>
 
