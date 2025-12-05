@@ -7,7 +7,7 @@
 <br>
 
 <p align="right"> 
-  <h3>Visitas al Perfil :-</h3> 
+  <h3>Visitas al Perfil :</h3> 
   <img src="https://komarev.com/ghpvc/?username=GinoGC01&label=Profile%20views&color=0e75b6&style=flat" alt="GinoGC01" /> 
 </p>
 
