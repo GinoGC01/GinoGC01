@@ -4,7 +4,7 @@
 
 <br>
 
-<p><img align="right"  width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right"  width="50%" src="./assets/gif1.gif" alt="adam-pw" /></p>
 
 - 🌱 Estudiante de sistemas
 
@@ -13,14 +13,6 @@
 - ⚡ Me gusta aprender todo lo relacionado con la tecnología
 
 - 🤓 Actualmente mas enfocado al backend
-
-<br>
-<!-- <h3 align="left">Linkedin:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/gino-ciancia" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="gino ciancia" height="30" width="40" /></a>
-</p> -->
 
 <br>
 
