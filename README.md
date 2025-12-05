@@ -1,68 +1,116 @@
-<h3 align="center">Hola 👋</h1>
-<h1 align="center">soy Gino Ciancia</h1>
-<h3 align="center">Desarrollador web 🌟</h3>
+<h1 align="center">Hola 👋, Soy Gino Gabriel Ciancia</h1>
+<h3 align="center">Desarrollador de Software Full-Stack | Estudiante de Lic. en Sistemas - UNGS 🚀</h3>
+
+<h3 align="center">Visita mi Portfolio</h3>
+<h4 align="center">https://portfolio.ginociancia.fun</h4>
 
 <br>
 
-<p><img align="right"  width="50%" src="./assets/gif1.gif" alt="adam-pw" /></p>
-
-- 🌱 Estudiante de sistemas
-
-- 📫 Me puedes contactar en **ginociancia10@gmail.com**
-
-- ⚡ Me gusta aprender todo lo relacionado con la tecnología
-
-- 🤓 Actualmente mas enfocado al backend
-
-<br>
-
-<h3 align="left">Skills</h3>
-<p align="left"> 
-  <!--   js -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> 
-  </a> 
-  <!--   node -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> 
-  </a> 
-  <!-- react -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> 
-  </a> 
-  <!--astro -->
- <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img
-      src="https://www.svgrepo.com/download/373446/astro.svg"
-      alt="astro" width="40" height="40" /> 
-  </a> 
-  <!--   mysql -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> 
-  </a> 
-<!--   css -->
-  <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> 
-  </a> 
-<!--   html -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> 
-  </a> 
-
-
-
-
-
-
-
-
- 
+<p align="right"> 
+  <h3>Visitas al Perfil :-</h3> 
+  <img src="https://komarev.com/ghpvc/?username=GinoGC01&label=Profile%20views&color=0e75b6&style=flat" alt="GinoGC01" /> 
 </p>
-<!-- template sacado de https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Adam-pw.md -->
+
+<br>
+
+<p><img align="right" src="./assets/coding.gif" alt="coding" width="400"/></p>
+
+- 🎓 Estudiante de **Licenciatura en Sistemas** en la UNGS (Universidad Nacional General Sarmiento)
+
+- 💼 Actualmente trabajando en **AuditAi** - Agente de IA para análisis contable
+
+- 🌱 Aprendiendo constantemente sobre **Inteligencia Artificial, RAG Systems y Arquitectura de Software**
+
+- 📫 Contacto: **ginociancia10@gmail.com**
+
+- 📍 Ubicación: **José C. Paz, Buenos Aires, Argentina**
+
+- 📱 Teléfono: **(11) 4023-0671**
+
+- 💡 Frase favorita: **"Si puedes imaginarlo, puedes programarlo"**
+
+<br>
+
+## 🚀 Proyectos Destacados
+
+### [AuditAi](https://t.me/ClariTaxBot)
+Asistente de contador digital impulsado por IA para análisis de estados contables, extracción de datos y generación de reportes automáticos.
+- 🤖 Sistema RAG con base de datos vectorial
+- 📊 Generación de informes en lenguaje natural
+- ⚡ Extracción automatizada de datos financieros
+
+### [AuditAi Page](https://auditai.ginociancia.fun)
+Página web oficial de AuditAi con sección de demo, funciones y contacto.
+
+### [Sistema de Turnos Médicos](https://github.com/GinoGC01/turnoMedicos-System-Front)
+Aplicación full-stack para gestión de turnos médicos con integración de Mercado Pago y notificaciones automáticas.
+
+### [Gestor de Gastos Familiares](https://github.com/GinoGC01/gastos-backend)
+Aplicación web para la gestión de gastos compartidos con registro, categorías e informes.
+
+<br>
+
+# 💻 Stack Tecnológico:
+
+## Lenguajes
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+## Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+## Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+## IA & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+## Herramientas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+## 📜 Certificaciones
+
+- 🎓 **Back-end Development and APIs** - FreeCodeCamp (2024)
+- 🤖 **Inteligencia Artificial** - Big School (2025)
+
+<br>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GinoGC01&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="GinoGC01" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GinoGC01&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="GinoGC01" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GinoGC01&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GinoGC01" />
+</p>
+
+<br>
+
+## 🔗 Conéctate Conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gino-ciancia-a4ab3b1a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ginociancia10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/GinoGC01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
