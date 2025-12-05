@@ -13,7 +13,7 @@
 
 <br>
 
-<p><img align="right" src="./assets/coding.gif" alt="coding" width="400"/></p>
+<p><img align="right" src="https://raw.githubusercontent.com/GinoGC01/GinoGC01/main/assets/coding.gif" alt="coding" width="400"/></p>
 
 - 🎓 Estudiante de **Licenciatura en Sistemas** en la UNGS (Universidad Nacional General Sarmiento)
 
@@ -62,7 +62,10 @@ Aplicación web para la gestión de gastos compartidos con registro, categorías
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+## DevOps & Infraestructura
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VPS](https://img.shields.io/badge/VPS-FF6C2C?style=for-the-badge&logo=virtualbox&logoColor=white) ![Servers](https://img.shields.io/badge/Servers-5C5C5C?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ## IA & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -80,18 +83,6 @@ Aplicación web para la gestión de gastos compartidos con registro, categorías
 <br>
 
 ## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GinoGC01&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="GinoGC01" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GinoGC01&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="GinoGC01" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GinoGC01&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GinoGC01" />
@@ -112,5 +103,4 @@ Aplicación web para la gestión de gastos compartidos con registro, categorías
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 ---
